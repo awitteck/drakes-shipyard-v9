@@ -15,6 +15,6 @@
     }
   ],
   "url": "https://github.com/awitteck/drakes-shipyard-v9",
-  "manifest": "https://raw.githubusercontent.com/awitteck/drakes-shipyard-v9/v1.1.0/module.json",
-  "download": "https://github.com/awitteck/drakes-shipyard-v9/archive/refs/tags/v1.1.0.zip"
+  "manifest": "https://raw.githubusercontent.com/awitteck/drakes-shipyard-v9/v1.0.0/module.json",
+  "download": "https://github.com/awitteck/drakes-shipyard-v9/archive/refs/tags/v1.0.0.zip"
 }
