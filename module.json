@@ -1,0 +1,24 @@
+{
+  "name": "drakes-shipyard-v9",
+  "title": "Drakes-Shipyard-v9",
+  "description": "Drakes Shipyard for Foundry v9",
+  "version": "1.0.0",
+  "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "9",
+        "maximum": "9"
+    },
+    "author": "awitteck",
+  "packs": [
+    {
+            "name": "drakes-shipyard",
+            "label": "Drakes Shipyard",
+            "path": "./packs/drakes-shipyard.db",
+            "type": "Actor"
+    }
+  ],
+  "url": "https://github.com/awitteck/drakes-shipyard-v9",
+  "manifest": "https://raw.githubusercontent.com/awitteck/drakes-shipyard-v9/v1.1.0/module.json",
+  "download": "https://github.com/awitteck/drakes-shipyard-v9/archive/refs/tags/v1.1.0.zip"
+}
