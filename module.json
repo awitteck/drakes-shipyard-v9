@@ -3,13 +3,9 @@
   "title": "Drakes-Shipyard-v9",
   "description": "Drakes Shipyard for Foundry v9",
   "version": "1.0.0",
+  "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
-    "compatibility": {
-        "minimum": "9",
-        "verified": "9",
-        "maximum": "9"
-    },
-    "author": "awitteck",
+  "author": "awitteck",
   "packs": [
     {
             "name": "drakes-shipyard",
